@@ -9,7 +9,7 @@ Problems are organized in each folder named by using their problem ID (eq: X). T
 
 [Programming guide and online practice][PDF]
 
-[PDF]: https://github.com/ishx/ishx.github.io/blob/master/assets/book/programming-guide-and-online-practice.pdf
+[PDF]: https://github.com/ishx/poj/blob/master/assets/book/programming-guide-and-online-practice.pdf
 
 ## Contributing
 
